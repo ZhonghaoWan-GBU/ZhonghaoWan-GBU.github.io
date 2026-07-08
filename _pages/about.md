@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Zhonghao Wan 万仲豪"
+title: "万仲豪 Zhonghao Wan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
+关于我
 ======
-I am an Assistant Professor at Great Bay University, working on sustainable systems for water and energy applications. My research and teaching focus on interfacial engineering, spatial confinement, catalytic materials, and membrane-based technologies for contaminant transformation, resource recovery, and sustainable water–energy systems.
+我是大湾区大学助理教授，主要从事面向水与能源应用的可持续系统研究。我的研究聚焦界面工程、空间限域、催化材料与膜反应系统，旨在解决污染物转化、资源回收、能源转化与系统可持续性等关键问题。
+
+作为教师和研究生导师，我致力于培养学生在环境技术、材料化学、催化科学、膜科学与可持续工程等交叉领域的综合能力。课题组面向下一代水—能源系统，探索如何将基础界面过程与实际水处理、状态检测、资源回收和能源利用技术相结合。
 
 Getting started
 ======
